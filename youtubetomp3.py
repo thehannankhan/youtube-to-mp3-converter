@@ -2,6 +2,7 @@
 # Requires: youtube_dl module & ffmpeg
 # Usage: python youtube2mp3.py <URL>, ...
 # Example: python youtube2mp3.py https://www.youtube.com/watch?v=xuCO7-DLCaA&ab_channel=LR1
+# --- END ---
 import youtube_dl
 import sys
 
